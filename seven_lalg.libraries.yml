@@ -2,3 +2,4 @@ global-styling:
   css:
     theme:
       css/seven-lalg-membership.css: { weight: 12 }
+      css/seven-lalg-groups.css: { weight: 14 }
