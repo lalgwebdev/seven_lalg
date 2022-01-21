@@ -16,7 +16,7 @@ regions:
   content: Content
   sidebar_first: 'First sidebar'
 # Information added by TJS on 2021-07-25
-version: '1.0.1'
+version: '1.0.2'
 core: '8.x'
 core_version_requirement: ^8 || ^9
 project: 'seven_lalg'
