@@ -1,0 +1,12 @@
+body.d9dev1 header:first-of-type {
+  background-image: none !important;
+  background-color: rgba(167,141,17,.36) !important;
+}
+body.d9test header:first-of-type {
+  background-image: none !important;
+  background-color: rgba(17,101,167,.36) !important;
+}
+body.d9ref header:first-of-type {
+  background-image: none !important;
+  background-color: rgba(17,167,19,.5) !important;
+}

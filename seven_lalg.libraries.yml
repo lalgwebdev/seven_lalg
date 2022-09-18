@@ -3,3 +3,10 @@ global-styling:
     theme:
       css/seven-lalg-membership.css: { weight: 12 }
       css/seven-lalg-groups.css: { weight: 14 }
+      css/seven-lalg-global.css: { weight: 16 }
+      
+global-scripts:
+  js: 
+    js/seven-lalg-environment.js: {}  
+  dependencies:
+    - core/jquery
