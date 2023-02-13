@@ -14,3 +14,8 @@ body.d9ref header:first-of-type {
   background-image: none !important;
   background-color: rgba(17,167,19,.5) !important;
 }
+
+/* Search-Kit Admin Layout */
+div.crm-search fieldset legend {
+	position: relative;
+}
